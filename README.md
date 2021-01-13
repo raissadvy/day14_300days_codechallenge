@@ -1,2 +1,2 @@
-# day14_300days_codechallenge-day
-#14 for #300dayscodechallenge
+# day14_300days_codechallenge
+day #14 for #300dayscodechallenge
